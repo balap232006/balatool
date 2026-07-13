@@ -1,0 +1,6 @@
+class testingnewclass{
+    public static void main(String[] main)
+    {
+        System.out.println("Hi");
+    }
+}
